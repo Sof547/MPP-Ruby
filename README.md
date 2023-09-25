@@ -1,5 +1,7 @@
-# TASK 1
+# MPP-Ruby
+University tasks in the discipline of Applied programming languages
 
+# TASK 1
 Make a small script game "rock paper scissors".
 We pass the subject as a command line argument to the input
 The output is the result
