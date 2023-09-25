@@ -32,3 +32,9 @@ output --> 2 1 4 * +
 EX:
 input --> 2 + 1 × 4
 output --> 2 1 4 * +
+
+# TASK 3
+
+Implement the design pattern - Observer
+
+Реалізувати паттерн проектування - Observer
