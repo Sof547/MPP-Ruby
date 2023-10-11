@@ -119,17 +119,17 @@ solution 2 (vertical cut):
    
 solution 3  
     [  
-      .o.. *// pcs. 1*  
-      ....  
+      `.o..` *// pcs. 1*  
+      `....`  
     ,  
-      .... *// pcs. 2*  
-      ..o.  
+      `....` *// pcs. 2*  
+      `..o.`  
     ,  
-      .... *// pcs. 3*  
-      ..o.  
+      `....` *// pcs. 3*  
+      `..o.`  
     ,  
-      o... *//pcs. 4*  
-      ....  
+      `o...` *//pcs. 4*  
+      `....`  
     ]  
 we need to choose solution 1 as the result.  
    
