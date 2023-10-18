@@ -183,3 +183,12 @@ Input range: 1 <= n < 4000
 Діапазон введення: 1 <= n < 4000  
 4 має бути представлено як IV.  
 
+# TASK 6
+
+Implement a method that returns true when it specifies a string argument with an IPv4 address - some numbers (0-255), separated by dots.  
+It is your responsibility to accept addresses in the canonical representation, without leading zeros, spaces, etc.  
+
+---
+
+Реалізуйте метод, який повертатиме true, якщо заданий аргумент строки є IPv4-адресою - чотири числа (0-255), розділені крапками.  
+Він повинен приймати лише адреси в канонічному представленні, тобто без ведучих нулів, пропусків тощо.  
