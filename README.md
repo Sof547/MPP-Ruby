@@ -192,3 +192,14 @@ It is your responsibility to accept addresses in the canonical representation, w
 
 Реалізуйте метод, який повертатиме true, якщо заданий аргумент строки є IPv4-адресою - чотири числа (0-255), розділені крапками.  
 Він повинен приймати лише адреси в канонічному представленні, тобто без ведучих нулів, пропусків тощо.  
+
+# KR
+  
+3. Write a program that calculates the factorial of a number entered by the user.  
+4. Write a program that checks whether the entered number is prime.  
+  
+---
+  
+3. Напишіть програму, яка обчислює факторіал числа, введеного користувачем.  
+4. Напишіть програму, яка перевіряє, чи є введене число простим.  
+  
