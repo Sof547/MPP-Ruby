@@ -203,3 +203,10 @@ It is your responsibility to accept addresses in the canonical representation, w
 3. Напишіть програму, яка обчислює факторіал числа, введеного користувачем.  
 4. Напишіть програму, яка перевіряє, чи є введене число простим.  
   
+# TASK 7
+
+The Monte Carlo method for evaluating numerical integrals and probability problems.  
+
+---
+
+Метод Монте-Карло для обчислення числових інтегралів і ймовірнісних задач.
