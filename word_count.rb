@@ -1,5 +1,5 @@
 def word_count(str)
-  str.gsub(/[[:punct:]]/, '').split.each_with_object(Hash.new(0)) do |word, counts|
+  str.gsub(/[[:punct:]]/, '').downcase.split.each_with_object(Hash.new(0)) do |word, counts|
     counts[word.to_sym] += 1
   end
 end
