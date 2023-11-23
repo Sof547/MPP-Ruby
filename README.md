@@ -225,3 +225,16 @@ make a csv file
 https://www.hospitalsafetygrade.org/all-hospitals  
 Використовувати гем https://github.com/sparklemotion/nokogiri  
 зробити CSV файл  
+
+---
+
+# KR 2
+
+3. Write a word_count function that takes a string and returns it  
+hash where the keys are the words and the values are the number of times each  
+each word occurs in a line.  
+
+3. Напишіть функцію word_count, яка приймає рядок і повертає  
+хеш, де ключами є слова, а значення — кількість разів, 
+кожне слово зустрічається в рядку.  
+
